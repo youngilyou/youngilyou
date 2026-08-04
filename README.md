@@ -40,5 +40,5 @@ I am focused on building reliable communication layers for drones and robots:
 
 ## Contact
 
-- GitHub: [@youngilyou](https://github.com/youngilyou)
+- Email: youngil740414@gmail.com
 - Website: [youngilyou.github.io](https://youngilyou.github.io)
